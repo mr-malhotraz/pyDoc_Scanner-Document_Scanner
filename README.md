@@ -1,6 +1,6 @@
 # Project : pyDoc_Scanner-Document_Scanner
 
-This project nakes use of OpenCV Library of Machine Learning and gives you a scanned & cropped top-down view of any document
+This project makes use of OpenCV Library of Machine Learning and gives you a scanned & cropped top-down view of any document
 ## Libraries:
 * OpenCV
 * Imutils
